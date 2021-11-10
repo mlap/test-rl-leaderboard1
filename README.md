@@ -1,1 +1,1 @@
-Testing out leaderboard implementation
+Example submission repo for rl-leaderboard.

@@ -8,4 +8,5 @@ pytablewriter
 seaborn
 pyyaml>=5.1
 sb3-contrib>=1.1.0a7
+gym
 gym_fishing
